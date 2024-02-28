@@ -5,7 +5,7 @@ Having an experience in Data Analysis and Engineering team as a Senior Data Scie
 
 * 🌍  I'm based in Noida, India
 * ✉️  You can contact me at [dhruv.gautam1409@gmail.com](mailto:dhruv.gautam1409@gmail.com)
-* 🧠  I'm learning Pyspark and Azure Cloud Services to have experience in Data Engineering.
+* 🧠  I'm currently learning and working on Pyspark and Azure Cloud Services to gain exposure in Data Engineering.
 * ⚡  Obsessed with Anime - Haikyuu !!
 
 ### Skills

@@ -8,7 +8,7 @@ Having 2.10 years of experience as Statistical Programmer in SAS (Statistical An
 * 🌍  I'm based in Noida, India
 * ✉️  You can contact me at [dhruv.gautam1409@gmail.com](mailto:dhruv.gautam1409@gmail.com)
 * 🧠  I'm currently learning and working on Pyspark and Azure Cloud Services to gain exposure in Data Engineering.
-* ⚡  Obsessed with Anime - Haikyuu !!
+* ⚡  Obsessed with Animes - Dragon Ball & Haikyuu !!
 
 ### Skills
 

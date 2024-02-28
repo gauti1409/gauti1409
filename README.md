@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Dhruv Gautam
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Dhruv Gautam
 ====================================================================================================================================
 
 Having an experience in Data Analysis and Engineering team as a Senior Data Science Analyst. Responsible for analyzing the scenarios within the data as well as for developing SQL scripts for inserting, modifying, creating, analyzing and retrieving data from configuration tables in the Database . Also, responsible for the development of Python scripts in the Data Engineering team for Data Ingestion. 

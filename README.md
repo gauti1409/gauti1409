@@ -1,9 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), My name is Dhruv Gautam
 ====================================================================================================================================
 
-Having an experience in Data Analysis and Engineering team as a Senior Data Science Analyst. Responsible for analyzing the scenarios within the data as well as for developing SQL scripts for inserting, modifying, creating, analyzing and retrieving data from configuration tables in the Database . Also, responsible for the development of Python scripts in the Data Engineering team for Data Ingestion. 
+Experienced Data Science Analyst with total 6 years of experience across Life Sciences, Telecom, Retail & SAP domains . 
 
-Having 2.10 years of experience as Statistical Programmer in SAS (Statistical Analysis System), Base SAS and SDTM(Study Data Tabulation Model-Implementation Guide). As a Statistical Programmer, I worked on the implementation of SDTM level domains through Base and Advanced SAS. Worked on the study level of Clinical Data right from converting the Raw data into SDTM Format to the documentation formats like Creation of mapping specs, CRFs annotation, Define.xml, CSDRGs implementation.
+Working in Data Science field from 3 years and have been involved with analyzing complex datasets, extracting insights from them and creating automated solutions to deliver actionable insights in Data and Analytics domain.   
+
+I have also been involved in the development of end to end processes for Data Processing and Analysis so as to extract and transform the raw data into the standardized format for gaining further insights and feed it further to Machine Learning Models for Predictive Analysis.  
+
+Furthermore, I have 3 years of experience as Statistical Programmer  in SAS (Statistical Analysis System), Base SAS and SDTM(Study Data Tabulation Model-Implementation Guide).
+
+As a Statistical Programmer, I have worked on the implementation of SDTM level domains through Base and Advanced SAS. Worked on the study level of Clinical Data right from converting the raw data into SDTM Format along with the completion of documentation formats like Creation of mapping specs, CRFs annotation, Define.xml and CSDRGs implementation.
 
 * 🌍  I'm based in Noida, India
 * ✉️  You can contact me at [dhruv.gautam1409@gmail.com](mailto:dhruv.gautam1409@gmail.com)
